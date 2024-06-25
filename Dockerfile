@@ -1,1 +1,1 @@
-FROM sonarqube:latest
+FROM sonarqube:latest@sha256:d333d4d1996ffa19f3fe67b65455c35bf2b10e8a44827f3a4f0449417a3d73c3
